@@ -1,4 +1,4 @@
-# sumitup
+# Sumitup
 
 To install dependencies:
 
